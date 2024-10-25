@@ -1,1 +1,4 @@
-The final dataset has the same columns as the original dataset except that the following 3 were dropped: 'Sub_metering_1', 'Sub_metering_2', 'Sub_metering_3'. The dataset is too big to upload here; hence, you can obtain the dataset by running the last command of the script file that converts our dataframe to a csv file and downloads it. 
+The final dataset has the same columns as the original dataset except that the following 3 were dropped:
+'Sub_metering_1', 'Sub_metering_2', 'Sub_metering_3'.
+The dataset is too big to upload here; hence, you can obtain the dataset by running the last command of the script file
+that converts our dataframe to a csv file and downloads it.
