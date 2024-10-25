@@ -18,9 +18,11 @@
   * Scikit-learn
   * TensorFlow
   * Keras
+  * StatsModels
+  * NeuralProphet
 * Scripts were run on the Google Colab Runtime Environment platform.
 
-## Map of Documentation -------------------------> (TODO) 
+## Map of Documentation
 ### DS4002-Project1
 * DATA
   * household_power_consumption_dataset.csv
